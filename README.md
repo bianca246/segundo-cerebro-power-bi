@@ -44,3 +44,13 @@ Esta seção será atualizada conforme o desenvolvimento do projeto.
 ## Link do notebook
 
 O link compartilhável será incluído após a criação e configuração do notebook.
+## Teste 1 — Conceitos básicos do Power BI
+
+**Pergunta realizada:** Explique o que é Power BI para uma pessoa iniciante. Apresente três utilizações práticas da ferramenta e responda com base nas fontes adicionadas ao notebook.
+
+**Resultado obtido:** O assistente explicou a finalidade do Power BI Desktop e apresentou três aplicações práticas: importação de dados, transformação com Power Query e criação de visualizações e cálculos com DAX.
+
+**Verificação das fontes:** A resposta apresentou citações numeradas. As referências serão conferidas para confirmar se sustentam as informações apresentadas.
+
+**Evidência:** Captura de tela da pergunta e da resposta no Gemini Notebook.
+
