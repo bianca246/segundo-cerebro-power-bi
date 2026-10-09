@@ -53,4 +53,14 @@ O link compartilhável será incluído após a criação e configuração do not
 **Verificação das fontes:** A resposta apresentou citações numeradas. As referências serão conferidas para confirmar se sustentam as informações apresentadas.
 
 **Evidência:** Captura de tela da pergunta e da resposta no Gemini Notebook.
+## Teste 2 — Diferença entre Power BI Desktop, Power Query e DAX
 
+**Pergunta realizada:** Com base nas fontes adicionadas ao notebook, explique a diferença entre Power BI Desktop, Power Query e DAX, utilizando um exemplo de uma empresa que deseja analisar suas vendas.
+
+**Resultado obtido:** O assistente explicou as funções do Power BI Desktop, do Power Query e da linguagem DAX. Também apresentou um fluxo de trabalho que envolve conexão com os dados, transformação, criação de cálculos e elaboração de relatórios interativos.
+
+**Exemplo prático:** Uma empresa pode utilizar o Power Query para preparar sua planilha de vendas, criar uma medida DAX para calcular o faturamento e apresentar os resultados em gráficos no Power BI Desktop.
+
+**Verificação das fontes:** O notebook apresentou citações numeradas ao longo da resposta. As referências devem ser conferidas individualmente para confirmar que sustentam as informações apresentadas.
+
+**Evidência:** Captura de tela da pergunta e da resposta do segundo teste no Gemini Notebook.
